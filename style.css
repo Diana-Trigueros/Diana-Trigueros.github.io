@@ -1,0 +1,52 @@
+*{
+    font-family: "Outfit", sans-serif;
+}
+header{
+    background-color: #d5bdaf;
+}
+header span{
+    color: #edede9;
+}
+.nav-item a{
+    color: white;
+}
+/*Link visitado*/ 
+.nav-item a:visited{
+    color: white;
+}
+.nav-item a:hover{
+    color: #b08968;
+}
+#nav-button{
+    background-color: #b08968;
+}
+.bi{
+    color: #b08968;
+    font-size: 2em;
+}
+.img-proyecto1{
+    background-image: url('/assets/inter-portafolio.jpg');
+    background-size: cover;
+    background-blend-mode: screen;
+
+}
+.img-proyecto2{
+    background-image: url('/assets/WhatsApp\ Image\ 2024-07-25\ at\ 7.07.16\ PM.jpeg');
+    background-size: cover;
+    background-blend-mode: screen;
+}
+.img-proyecto3{
+    background-image: url('assets/18.jpeg');
+    background-size: cover;
+    background-blend-mode: screen;
+}
+
+/*Paleta de colores
+  #edede9 
+  #d6ccc2
+  #f5ebe0
+  #e3d5ca
+  #d5bdaf
+  #c9ada7
+  9a8c98
+  b08968*/ 
